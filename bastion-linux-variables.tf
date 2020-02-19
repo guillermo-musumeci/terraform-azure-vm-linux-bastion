@@ -20,7 +20,7 @@ variable "bastion-linux-admin-password" {
 variable "bastion-linux-vm-hostname" {
   type        = string
   description = "Linux Bastion VM Hostname"
-  default     = "bastionwlnx1"
+  default     = "bastionlnx1"
 }
 
 # Linux Bastion VM Virtual Machine Size
